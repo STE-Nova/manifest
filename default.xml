@@ -159,4 +159,5 @@
   <project path="kernel/sony/u8500"             name="STE-Nova/android_kernel_sony_u8500"            remote="gh"     revision="cm-11.0" />
   <project path="vendor/sony"                   name="STE-Nova/android_vendor_sony"                  remote="gh"     revision="cm-11.0" />
   <project path="hardware/ste-sony"             name="STE-Nova/android_hardware_ste-sony"            remote="gh"     revision="cm-11.0" />
+  <project path="external/wpa_supplicant_8_ti"	name="CyanogenMod/android_external_wpa_supplicant_8_ti"             remote="gh"     revision="cm-11.0" />
 </manifest>
